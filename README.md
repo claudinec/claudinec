@@ -1,16 +1,16 @@
-### Hi there 👋
+### Claudine Chionh
 
-<!--
-**claudinec/claudinec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance research and technology consultant. Board of Directors,
+[intertwine](https://intertwine.net.au).  Information Management student
+at RMIT University.
 
-Here are some ideas to get you started:
+Location: Unceded Woiwurrung and Boonwurrung land (Melbourne, Australia)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pronouns: she/her
+
+[Web](https://www.claudinec.net/) |
+[GitHub](https://github.com/claudinec) |
+[Mastodon](https://fosstodon.org/@claudinec) |
+[Twitter](https://twitter.com/claudinec) |
+[LinkedIn](https://www.linkedin.com/in/claudinec)
+
