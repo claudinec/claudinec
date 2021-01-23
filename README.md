@@ -1,7 +1,7 @@
 ### Claudine Chionh
 
 Freelance research and technology consultant. Board of Directors,
-[intertwine](https://intertwine.net.au).  Information Management student
+[intertwine](https://intertwine.net.au). Master of Information Management student
 at RMIT University.
 
 Location: Unceded Woiwurrung and Boonwurrung land (Melbourne, Australia)
