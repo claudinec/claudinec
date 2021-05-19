@@ -1,9 +1,8 @@
-### Claudine Chionh
+## Claudine Chionh
 
-Freelance research and technology consultant. Admin, [LGBTQ in
-Technology Slack](https://lgbtq.technology). Board of Directors,
-[intertwine](https://intertwine.net.au). Master of Information
-Management student at RMIT University.
+Freelance research and technology consultant. I provide technology services and consulting for progressive organisations and creative individuals in Australia.
+
+Admin, [LGBTQ in Technology Slack](https://lgbtq.technology). Board of Directors, [intertwine](https://intertwine.net.au). Master of Information Management student at RMIT University.
 
 Location: Unceded Woiwurrung and Boonwurrung land (Melbourne, Australia)
 
@@ -14,4 +13,3 @@ Pronouns: she/her
 [Mastodon](https://fosstodon.org/@claudinec) |
 [Twitter](https://twitter.com/claudinec) |
 [LinkedIn](https://www.linkedin.com/in/claudinec)
-
