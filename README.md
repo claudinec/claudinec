@@ -1,8 +1,6 @@
 ## Claudine Chionh
 
-Freelance research and technology consultant. I provide technology services and consulting for progressive organisations and creative individuals in Australia.
-
-Admin, [LGBTQ in Technology Slack](https://lgbtq.technology). Board of Directors, [intertwine](https://intertwine.net.au). Master of Information Management student at RMIT University.
+Master of Information Management student at RMIT University. Office coordinator, [Australian Queer Archives](https://queerarchives.org.au/). Admin, [LGBTQ in Technology Slack](https://lgbtq.technology). Board of Directors, [intertwine](https://intertwine.net.au).
 
 Location: Unceded Woiwurrung and Boonwurrung land (Melbourne, Australia)
 
