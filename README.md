@@ -1,6 +1,6 @@
 ## Claudine Chionh
 
-Master of Information Management student at RMIT University. Office coordinator, [Australian Queer Archives](https://queerarchives.org.au/). Admin, [LGBTQ in Technology Slack](https://lgbtq.technology). Board of Directors, [intertwine](https://intertwine.net.au).
+Recovering webdev now doing tech for fun in my homelab. I speak Python, JavaScript, regex, bash, and zsh. Office coordinator, [Australian Queer Archives](https://queerarchives.org.au/). Admin, [LGBTQ in Technology Slack](https://lgbtq.technology). Board of Directors, [intertwine](https://intertwine.net.au).
 
 Location: Unceded Woiwurrung and Boonwurrung land (Melbourne, Australia)
 
